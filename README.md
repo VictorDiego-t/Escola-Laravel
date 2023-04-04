@@ -1,2 +1,2 @@
 # Escola-Laravel
-Projeto de estudos
+Projeto Criado em laravel para estudos 
